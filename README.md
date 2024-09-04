@@ -1,35 +1,68 @@
 ### Olá, eu sou o Mileno Epifânio 👋
 
+- 🔭 I’m currently working as Data Analyst on CVLB Group 
+- 🌱 I’m currently learning Data Science
+- ⚡ I'm a Bachelor of Science in Production Engineer
+- 😄 Pronouns: He/Him
+
+
 [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mileno.alexandre86@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584987650731)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenoalexandre/)
 
-![Epifanio GitHub stats](https://github-readme-stats.vercel.app/api?username=milenoepifanio&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milenoepifanio&hide_progress=true)
+
+<div  align="center" style="margin-bottom:100px">
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=milenoepifanio&theme=radical&mode=weekly"/>
+<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=milenoepifanio&show_icons=true&theme=radical&layout=compact" />
+ </div>
 
 
-## Ferramentas e tecnologias que uso no meu dia
-  <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="Mileno-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+## My Skills
+
+#### Main Stack:
+
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
+
+
+
+#### Databases:
+
   <img align="center" alt="Mileno-mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Mileno-Databricks" height="30" width="40" src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
-  <img align="center" alt="Mileno-Airflow" height="30" width="40" src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white">
+  <img align="center" alt="Mileno-Databricks" height="30" width="40" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img align="center" alt="Mileno-Databricks" height="30" width="40" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+   <img align="center" alt="Mileno-Databricks" height="30" width="40" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+
+
+#### Tools:
+
   <img align="center" alt="Mileno-GitLab" height="30" width="40" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
   <img align="center" alt="Mileno-GitHub" height="30" width="40" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-  <img align="center" alt="Mileno-VisualCode" height="30" width="40" src="https://camo.githubusercontent.com/5fa137d222dde7b69acd22c6572a065ce3656e6ffa1f5e88c1b5c7a935af3cc6/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f7673636f64652f7673636f64652d6f726967696e616c2e737667">
-  <img align="center" alt="Mileno-Git" height="30" width="40" src="https://camo.githubusercontent.com/dc9e7e657b4cd5ba7d819d1a9ce61434bd0ddbb94287d7476b186bd783b62279/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6769742f6769742d6f726967696e616c2e737667">
-</div>
+  <img align="center" alt="Mileno-Git" height="30" width="40" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
+  </div>
+
+#### Workstation Tools:
+
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)&nbsp;
+![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)&nbsp;
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)&nbsp;
+![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
+
+
+
 
 <!--
 **milenoepifanio/milenoepifanio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->

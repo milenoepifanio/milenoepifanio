@@ -78,8 +78,6 @@ Projeto de Estatística I com foco no dataset público da Olist. Análises descr
 **Stack:**  
 `Python` · `pandas` · `matplotlib` · `seaborn`
 
-👥 Projeto em grupo com Filipe, Gabriel, Maria Paula, Matheus, Mileno e Mille
-
 📁 [Ver Repositório no GitHub](https://github.com/marqsleal/estatistica-um-projeto)
 
 ---
@@ -98,6 +96,8 @@ Projeto completo com modelagem de banco relacional, ETL em Python, análises com
 `SQL (PostgreSQL)` · `Python` · `pandas` · `Power BI`
 
 📁 Pastas: `Painel/`, `Analise python/`, `ETL/`
+
+📁 [Ver Repositório no GitHub]([https://github.com/marqsleal/estatistica-um-projeto](https://github.com/milenoepifanio/analise_projeto_pix))
 
 ---
 
@@ -170,11 +170,10 @@ Sistema funcional em Python para controle de produtos, vendas e geração de rel
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 <img src="https://camo.githubusercontent.com/61a1153e1d9858560e8fb21d88d7bdfa43a93ba20d71150ea109a83771e7d5e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f59414d4c2d4342313731452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d59414d4c266c6f676f436f6c6f723d7768697465">
 
-
-
-
-
 </div>
+
+
+
 
 #### Workstation Tools:
 

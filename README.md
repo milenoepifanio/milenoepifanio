@@ -62,7 +62,7 @@ Projeto de classificação para estimar o risco de doenças cardíacas com dados
 
 👥 Projeto em grupo com Larissa, Mileno Epifânio
 
-📁 [Ver Repositório no GitHub](https://github.com/Larita404/Hearth_disease_risk)
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Hearth_disease_risk)
 
 ---
 
@@ -78,7 +78,7 @@ Projeto de Estatística I com foco no dataset público da Olist. Análises descr
 **Stack:**  
 `Python` · `pandas` · `matplotlib` · `seaborn`
 
-📁 [Ver Repositório no GitHub](https://github.com/marqsleal/estatistica-um-projeto)
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/estatistica-um-projeto)
 
 ---
 
@@ -97,7 +97,7 @@ Projeto completo com modelagem de banco relacional, ETL em Python, análises com
 
 📁 Pastas: `Painel/`, `Analise python/`, `ETL/`
 
-📁 [Ver Repositório no GitHub]([https://github.com/marqsleal/estatistica-um-projeto](https://github.com/milenoepifanio/analise_projeto_pix))
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/analise_projeto_pix).
 
 ---
 
@@ -114,7 +114,7 @@ Sistema funcional em Python para controle de produtos, vendas e geração de rel
 **Stack:**  
 `Python` · `Programação Funcional` · `Tratamento de Exceções`
 
-📁 [Ver Repositório no GitHub](https://github.com/ju4nv1e1r4/ecommerce_coders2024)
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/ecommerce_coders2024)
 
 ---
 

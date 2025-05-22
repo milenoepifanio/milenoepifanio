@@ -43,8 +43,7 @@ Regressão para prever o custo de seguros com base em dados demográficos e de s
 - Validação cruzada (10 folds), RMSE e R²;
 - Aplicação com dados simulados pelo usuário.
 
-**Stack:**  
-`Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn` · `statsmodels`
+**Stack:**: `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn` · `statsmodels`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/RegressaoLogistica_SeguroSaude)
 
@@ -60,10 +59,7 @@ Projeto de classificação para estimar o risco de doenças cardíacas com dados
 - Métrica principal: *Recall* para maximizar detecção de risco;
 - Clusterização para identificação de perfis de risco.
 
-**Stack:**  
-`Python` · `pandas` · `scikit-learn` · `xgboost` · `lightgbm`
-
-👥 Projeto em grupo com Larissa, Mileno Epifânio
+**Stack:**: `Python` · `pandas` · `scikit-learn` · `xgboost` · `lightgbm`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Hearth_disease_risk)
 
@@ -78,8 +74,7 @@ Projeto de Estatística I com foco no dataset público da Olist. Análises descr
 - Análises visuais em múltiplos notebooks;
 - Contexto real do e-commerce brasileiro.
 
-**Stack:**  
-`Python` · `pandas` · `matplotlib` · `seaborn`
+**Stack:**: `Python` · `pandas` · `matplotlib` · `seaborn`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/estatistica-um-projeto)
 
@@ -95,8 +90,7 @@ Projeto completo com modelagem de banco relacional, ETL em Python, análises com
 - Análises de comportamento em Python;
 - Painel interativo em Power BI.
 
-**Stack:**  
-`SQL (PostgreSQL)` · `Python` · `pandas` · `Power BI`
+**Stack:**: `SQL (PostgreSQL)` · `Python` · `pandas` · `Power BI`
 
 📁 Pastas: `Painel/`, `Analise python/`, `ETL/`
 
@@ -114,8 +108,7 @@ Sistema funcional em Python para controle de produtos, vendas e geração de rel
 - Interface textual simples e robusta;
 - Tratamento de exceções e uso de funções lambda.
 
-**Stack:**  
-`Python` · `Programação Funcional` · `Tratamento de Exceções`
+**Stack:**: `Python` · `Programação Funcional` · `Tratamento de Exceções`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/ecommerce_coders2024)
 

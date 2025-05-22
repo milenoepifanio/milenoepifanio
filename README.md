@@ -8,7 +8,7 @@
 
 
 
-[![Gmail Badge](https://img.shields.io/badge/mileno.alexandre86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mileno.alexandre86@gmail.com)](mileno.alexandre86@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mileno.alexandre86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mileno.alexandre86@gmail.com)](mailto:mileno.alexandre86@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584987650731)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenoepifanio/)
 

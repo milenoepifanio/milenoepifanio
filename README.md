@@ -91,8 +91,6 @@ Projeto completo com modelagem de banco relacional, ETL em Python, análises com
 
 **Stack:** `SQL (PostgreSQL)` · `Python` · `pandas` · `Power BI`
 
-📁 Pastas: `Painel/`, `Analise python/`, `ETL/`
-
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/analise_projeto_pix).
 
 ---

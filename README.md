@@ -105,7 +105,7 @@ Sistema funcional em Python para controle de produtos, vendas e geração de rel
 - Interface textual simples e robusta;
 - Tratamento de exceções e uso de funções lambda.
 
-**Stack:**: `Python` · `Programação Funcional` · `Tratamento de Exceções`
+**Stack:** `Python` · `Programação Funcional` · `Tratamento de Exceções`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/ecommerce_coders2024)
 

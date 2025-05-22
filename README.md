@@ -12,12 +12,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5584987650731)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenoepifanio/)
 
-## Github statistics
+<img align="right" src="https://komarev.com/ghpvc/?username=milenoepifanio" alt="MilenoEpifanio's Profile Views" />
 
-<div align="center" style="margin-bottom:100px">
-  <img height="200" width="43%" align="center" src="https://github-readme-streak-stats.herokuapp.com?user=milenoepifanio&theme=radical&mode=weekly" />
-  <img height="170" width="44%" align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=milenoepifanio&show_icons=true&theme=radical&layout=compact" />
-</div> 
 
 ## 🚀 Projetos em Destaque
 

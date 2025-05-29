@@ -1,11 +1,9 @@
 ### Olá, eu sou o Mileno Epifânio 👋
 
-
 - 👀 Interesses: Análise de Dados, Machine Learning, Engenharia de Dados, Business Intelligence, MLOps (em progresso).
 - 🌱 Linguagens: Python, SQL, DAX, M (Power Query), YAML.
 - ⚡ Curiosidade: Eu programo no ritmo do pop — criatividade alimentada por playlists.
 - 🔭 Atualmente atuando como Analista de Dados no Grupo CVLB.
-
 
 
 [![Gmail Badge](https://img.shields.io/badge/-mileno.alexandre86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mileno.alexandre86@gmail.com)](mailto:mileno.alexandre86@gmail.com)
@@ -44,7 +42,7 @@ Regressão para prever o custo de seguros com base em dados demográficos e de s
 
 **Stack:** `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn` · `statsmodels`
 
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/RegressaoLogistica_SeguroSaude)
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/RegressaoLogistica_SeguroSaude).
 
 ---
 
@@ -60,7 +58,7 @@ Projeto de classificação para estimar o risco de doenças cardíacas com dados
 
 **Stack:** `Python` · `pandas` · `scikit-learn` · `xgboost` · `lightgbm`
 
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Hearth_disease_risk)
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Hearth_disease_risk).
 
 ---
 
@@ -75,7 +73,7 @@ Projeto de Estatística I com foco no dataset público da Olist. Análises descr
 
 **Stack:** `Python` · `pandas` · `matplotlib` · `seaborn`
 
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/estatistica-um-projeto)
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/estatistica-um-projeto).
 
 ---
 
@@ -107,7 +105,7 @@ Sistema funcional em Python para controle de produtos, vendas e geração de rel
 
 **Stack:** `Python` · `Programação Funcional` · `Tratamento de Exceções`
 
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/ecommerce_coders2024)
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/ecommerce_coders2024).
 
 ---
 

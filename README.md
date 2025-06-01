@@ -2,7 +2,7 @@
 
 - 👀 Interesses: Análise de Dados, Machine Learning, Engenharia de Dados, Business Intelligence, MLOps (em progresso).
 - 🌱 Linguagens: Python, SQL, DAX, M (Power Query), YAML.
-- ⚡ Curiosidade: Eu programo no ritmo do pop — criatividade alimentada por playlists.
+- ⚡ Curiosidade: Amo música pop e forró romântico.
 - 🔭 Atualmente atuando como Analista de Dados no Grupo CVLB.
 
 

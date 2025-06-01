@@ -109,7 +109,6 @@ Sistema funcional em Python para controle de produtos, vendas e geração de rel
 
 ---
 
-
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=milenoepifanio&theme=radical&mode=weekly"/>
 <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=milenoepifanio&show_icons=true&theme=radical&layout=compact" />
@@ -125,7 +124,6 @@ Sistema funcional em Python para controle de produtos, vendas e geração de rel
 
 
 #### Analytics:
-
 <div>
  
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
@@ -149,8 +147,6 @@ Sistema funcional em Python para controle de produtos, vendas e geração de rel
 <img src="https://camo.githubusercontent.com/92a919a6edbd7f32558f78eca59876b1a355579a76aa604c044e9aa384f87dbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536561626f726e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736561626f726e266c6f676f436f6c6f723d7768697465">
 <img src="https://camo.githubusercontent.com/8c37cb7bed0bfb20307a20a8336faacb337b2e92ef2b44bf46dd18994c49ca56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f6f6b65722d3432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4c6f6f6b6572266c6f676f436f6c6f723d7768697465">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-
-
 
 
 #### MLOps:

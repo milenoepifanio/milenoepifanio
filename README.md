@@ -3,7 +3,7 @@
 - 👀 Interesses: Análise de Dados, Machine Learning, Engenharia de Dados, Business Intelligence, MLOps (em progresso).
 - 🌱 Linguagens: Python, SQL, DAX, M (Power Query), YAML.
 - ⚡ Curiosidade: Amo música pop e forró romântico.
-- 🔭 Atualmente atuando como Analista de Dados no Grupo CVLB.
+- 🔭 Atualmente atuando como Analista de Dados na Nexly Data.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-mileno.alexandre86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mileno.alexandre86@gmail.com)](mailto:mileno.alexandre86@gmail.com)

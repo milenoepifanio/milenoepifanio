@@ -1,6 +1,6 @@
 ### Olá, eu sou o Mileno Epifânio 👋
 
-- 🔍 Atuação em Analytics e Análise de Dados, com foco em segmentação de clientes, métricas de negócio, modelagem analítica e suporte à tomada de decisão.
+- 🔍 Atuação em Analytics aplicado ao negócio, com foco em segmentação de clientes, métricas estratégicas, modelagem analítica e suporte à tomada de decisão orientada por dados.
 - 🛠️ Stack principal: Python & SQL (Analytics), BigQuery & Databricks (Data Platforms), Airflow (Orquestração)
 - 📊 Experiência com análises exploratórias, estatística aplicada, clusterização e modelos preditivos.
 
@@ -64,14 +64,14 @@ Análise Estatística Aplicada em Dados de E-commerce com foco no dataset públi
 
 ### 🏥 *Predição de Gastos com Planos de Saúde*
 
-Regressão para prever o custo de seguros com base em dados demográficos e de saúde. Testes com dados reais simulados via `input()`.
+Regressão para prever o custo de seguros com base em dados demográficos e de saúde. Simulação de cenários com dados controlados para avaliação de comportamento do modelo.
 
 **Principais entregas:**
 - Modelos: Regressão Linear e Árvore de Decisão;
 - Validação cruzada (10 folds), RMSE e R²;
 - Aplicação com dados simulados pelo usuário.
 
-**Stack:** `Python (pandas, scikit-learn, numpy` · `Análise Estatística` ·  `Visualização Analítica`
+**Stack:** `Python (pandas, NumPy, scikit-learn)` · `Análise Estatística` ·  `Visualização Analítica`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/RegressaoLogistica_SeguroSaude).
 
@@ -99,7 +99,7 @@ Projeto de classificação para estimar o risco de doenças cardíacas com dados
  </div>
 
 
-## 🧠 Core Skills
+## 🧠 Core Analytics Skills
 
 ### Analytics & Data
 Python · SQL · BigQuery · Databricks

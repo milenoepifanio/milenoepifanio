@@ -99,54 +99,35 @@ Projeto de classificação para estimar o risco de doenças cardíacas com dados
  </div>
 
 
-## My Skills
+## 🧠 Core Skills
 
-#### Programming Languages:
+### Analytics & Data
+Python · SQL · BigQuery · Databricks
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
 
+### Data Science
+pandas · NumPy · scikit-learn · Estatística aplicada · Clusterização
 
-
-#### Analytics:
-<div>
- 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white">
-<img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
-
-</div>
-
-
-#### Data Manipulation:
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Scipy](https://camo.githubusercontent.com/062409caf6a591a099401460d22c5663346df2c543ad56c10b93fea8dfd14c0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53636950792d3843414145362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d5363695079266c6f676f436f6c6f723d7768697465)&nbsp;
-
-#### Data Visualization:
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)&nbsp;
-<img src="https://camo.githubusercontent.com/495dcc10a041b1056b53fcbce89019b329aec45ab2e3a5d5d59b081441fbbf2f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506c6f746c792d3233393132303f7374796c653d666f722d7468652d6261646765266c6f676f3d706c6f746c79266c6f676f436f6c6f723d7768697465">
-<img src="https://camo.githubusercontent.com/86e9def5b8ea4baaf6edc890845202c380fe5c19403fd0f3e91a14d5dbf71039/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6174706c6f746c69622d2532336666666666662e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4d6174706c6f746c6962266c6f676f436f6c6f723d626c61636b">
-<img src="https://camo.githubusercontent.com/92a919a6edbd7f32558f78eca59876b1a355579a76aa604c044e9aa384f87dbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536561626f726e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736561626f726e266c6f676f436f6c6f723d7768697465">
-<img src="https://camo.githubusercontent.com/8c37cb7bed0bfb20307a20a8336faacb337b2e92ef2b44bf46dd18994c49ca56/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c6f6f6b65722d3432383546342e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d4c6f6f6b6572266c6f676f436f6c6f723d7768697465">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 
-#### MLOps:
-<div>
- 
-<img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://camo.githubusercontent.com/61a1153e1d9858560e8fb21d88d7bdfa43a93ba20d71150ea109a83771e7d5e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f59414d4c2d4342313731452e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d59414d4c266c6f676f436f6c6f723d7768697465">
+Visualização analítica: matplotlib · seaborn · plotly 
 
-</div>
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://camo.githubusercontent.com/92a919a6edbd7f32558f78eca59876b1a355579a76aa604c044e9aa384f87dbd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536561626f726e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d736561626f726e266c6f676f436f6c6f723d7768697465)
+![Plotly Dash](https://img.shields.io/badge/plotly-3F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
 
+### Analytics Engineering
+Airflow · Git / GitHub · VScode · Jupyter
 
-
-#### Workstation Tools:
-
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
 ![Jupyter](https://camo.githubusercontent.com/a4511696127a05c02d6082a9c4780b77b670a0a3fb2c85b5bf75a4f72bd8e00b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a7570797465722532304e6f7465626f6f6b2d4633373632363f7374796c653d666f722d7468652d6261646765266c6f676f3d6a757079746572266c6f676f436f6c6f723d7768697465)&nbsp;

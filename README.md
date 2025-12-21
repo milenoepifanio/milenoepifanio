@@ -40,7 +40,7 @@ Projeto de analytics aplicado envolvendo modelagem de dados, ETL em Python e an�
 - Análises exploratórias e de comportamento em Python;
 - Consolidação de resultados em artefatos analíticos para apoio à tomada de decisão.
 
-**Stack:** `SQL (PostgreSQL)` · `Python (pandas)` · `Power BI`
+**Stack:** `SQL (PostgreSQL)` · `Python (pandas)`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/analise_projeto_pix).
 

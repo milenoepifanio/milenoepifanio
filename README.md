@@ -1,9 +1,8 @@
 ### Olá, eu sou o Mileno Epifânio 👋
 
-- 👀 Interesses: Análise de Dados, Machine Learning, Engenharia de Dados, Business Intelligence, MLOps (em progresso).
-- 🌱 Linguagens: Python, SQL, DAX, M (Power Query), YAML.
-- ⚡ Curiosidade: Amo música pop e forró romântico.
-- 🔭 Atualmente atuando como Analista de Dados na Nexly Data.
+- 🔍 Atuação em Analytics e Análise de Dados, com foco em segmentação de clientes, métricas de negócio, modelagem analítica e suporte à tomada de decisão.
+- 🛠️ Stack principal: Python, SQL, BigQuery, Databricks, Airflow, Power BI.
+- 📊 Experiência com análises exploratórias, estatística aplicada, clusterização e modelos preditivos.
 
 
 [![Gmail Badge](https://img.shields.io/badge/-mileno.alexandre86@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mileno.alexandre86@gmail.com)](mailto:mileno.alexandre86@gmail.com)
@@ -17,7 +16,7 @@
 
 ### 📦 *Clusterização de Clientes com RFV (Recência, Frequência e Valor)*
 
-Segmentação de clientes com base em comportamentos de compra reais, usando análise RFV e clustering com KMeans. O objetivo foi identificar perfis distintos de consumo e gerar insights para estratégias de marketing, retenção e fidelização.
+Segmentação de clientes baseada em comportamento de compra (RFV), com aplicação de KMeans para identificação de perfis de valor, retenção e recorrência, suportando decisões de negócio e estratégias analíticas. O objetivo foi identificar perfis distintos de consumo e gerar insights para estratégias de marketing, retenção e fidelização.
 
 **Principais entregas:**
 - Pré-processamento completo e normalização com *MinMaxScaler*;
@@ -25,55 +24,9 @@ Segmentação de clientes com base em comportamentos de compra reais, usando an�
 - Visualização de perfis e exportação para Excel;
 - Segmentação por produtos: Vale e Digital.
 
-**Stack:** `Python` · `pandas` · `scikit-learn` · `matplotlib` · `seaborn` · `openpyxl`
+**Stack:** `Python (pandas, scikit-learn, numpy` · `Análise Estatística` ·  `Visualização Analítica`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Clusterizacao_Produtos_Digitais)
-
----
-
-### 🏥 *Predição de Gastos com Planos de Saúde*
-
-Regressão para prever o custo de seguros com base em dados demográficos e de saúde. Testes com dados reais simulados via `input()`.
-
-**Principais entregas:**
-- Modelos: Regressão Linear e Árvore de Decisão;
-- Validação cruzada (10 folds), RMSE e R²;
-- Aplicação com dados simulados pelo usuário.
-
-**Stack:** `Python` · `pandas` · `numpy` · `matplotlib` · `seaborn` · `scikit-learn` · `statsmodels`
-
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/RegressaoLogistica_SeguroSaude).
-
----
-
-### ❤️ *Predição de Risco de Doenças Cardiovasculares (Santander Coders)*
-
-Projeto de classificação para estimar o risco de doenças cardíacas com dados reais do BRFSS. Combinação de modelos supervisionados (XGBoost, LGBM, AdaBoost) e clustering com KMeans.
-
-**Principais entregas:**
-- Análise exploratória e pré-processamento detalhado;
-- Ajuste de pesos para dados desbalanceados;
-- Métrica principal: *Recall* para maximizar detecção de risco;
-- Clusterização para identificação de perfis de risco.
-
-**Stack:** `Python` · `pandas` · `scikit-learn` · `xgboost` · `lightgbm`
-
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Hearth_disease_risk).
-
----
-
-### 📈 *Análise Estatística Descritiva – E-Commerce Olist (Santander Coders)*
-
-Projeto de Estatística I com foco no dataset público da Olist. Análises descritivas, distribuições, correlações e storytelling com foco nas formas de pagamento.
-
-**Principais entregas:**
-- Exploração de variáveis numéricas e categóricas;
-- Análises visuais em múltiplos notebooks;
-- Contexto real do e-commerce brasileiro.
-
-**Stack:** `Python` · `pandas` · `matplotlib` · `seaborn`
-
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/estatistica-um-projeto).
 
 ---
 
@@ -87,25 +40,56 @@ Projeto completo com modelagem de banco relacional, ETL em Python, análises com
 - Análises de comportamento em Python;
 - Painel interativo em Power BI.
 
-**Stack:** `SQL (PostgreSQL)` · `Python` · `pandas` · `Power BI`
+**Stack:** `SQL (PostgreSQL)` · `Python (pandas)` · `Power BI`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/analise_projeto_pix).
 
 ---
 
-### 🛒 *Sistema de Gerenciamento de Vendas e Inventário*
 
-Sistema funcional em Python para controle de produtos, vendas e geração de relatórios. Ideal para uso local ou acadêmico.
+### 📈 *Análise Estatística Descritiva – E-Commerce Olist*
+
+Análise Estatística Aplicada em Dados de E-commerce com foco no dataset público da Olist. Análises descritivas, distribuições, correlações e storytelling com foco nas formas de pagamento.
 
 **Principais entregas:**
-- Cadastro, atualização e exclusão de produtos;
-- Controle de estoque e vendas com persistência em arquivos `.txt`;
-- Interface textual simples e robusta;
-- Tratamento de exceções e uso de funções lambda.
+- Exploração de variáveis numéricas e categóricas;
+- Análises visuais em múltiplos notebooks;
+- Contexto real do e-commerce brasileiro.
 
-**Stack:** `Python` · `Programação Funcional` · `Tratamento de Exceções`
+**Stack:** `Python` · `pandas` · `matplotlib` · `seaborn`
 
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/ecommerce_coders2024).
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/estatistica-um-projeto).
+
+---
+
+### 🏥 *Predição de Gastos com Planos de Saúde*
+
+Regressão para prever o custo de seguros com base em dados demográficos e de saúde. Testes com dados reais simulados via `input()`.
+
+**Principais entregas:**
+- Modelos: Regressão Linear e Árvore de Decisão;
+- Validação cruzada (10 folds), RMSE e R²;
+- Aplicação com dados simulados pelo usuário.
+
+**Stack:** `Python (pandas, scikit-learn, numpy` · `Análise Estatística` ·  `Visualização Analítica`
+
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/RegressaoLogistica_SeguroSaude).
+
+---
+
+### ❤️ *Predição de Risco de Doenças Cardiovasculares*
+
+Projeto de classificação para estimar o risco de doenças cardíacas com dados reais do BRFSS. Combinação de modelos supervisionados (XGBoost, LGBM, AdaBoost) e clustering com KMeans.
+
+**Principais entregas:**
+- Análise exploratória e pré-processamento detalhado;
+- Ajuste de pesos para dados desbalanceados;
+- Métrica principal: *Recall* para maximizar detecção de risco;
+- Clusterização para identificação de perfis de risco.
+
+**Stack:** `Python (pandas, scikit-learn, xgboost, lightgbm)`
+
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Hearth_disease_risk).
 
 ---
 

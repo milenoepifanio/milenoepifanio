@@ -1,7 +1,7 @@
 ### Olá, eu sou o Mileno Epifânio 👋
 
 - 🔍 Atuação em Analytics aplicado ao negócio, com foco em segmentação de clientes, métricas estratégicas, modelagem analítica e suporte à tomada de decisão orientada por dados.
-- 🛠️ Stack principal: Python & SQL (Analytics), BigQuery & Databricks (Data Platforms), Airflow (Orquestração)
+   🛠️ Stack principal: Python & SQL (Analytics) · BigQuery & Databricks (Data Platforms) · Airflow (Orquestração)
 - 📊 Experiência com análises exploratórias, estatística aplicada, clusterização e modelos preditivos.
 
 
@@ -11,12 +11,11 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=milenoepifanio" alt="MilenoEpifanio's Profile Views" />
 
-
 ## 🚀 Projetos em Destaque
 
 ### 📦 *Clusterização de Clientes com RFV (Recência, Frequência e Valor)*
 
-Segmentação de clientes baseada em comportamento de compra (RFV), com aplicação de KMeans para identificação de perfis de valor, retenção e recorrência, suportando decisões de negócio e estratégias analíticas. O objetivo foi identificar perfis distintos de consumo e gerar insights para estratégias de marketing, retenção e fidelização.
+Segmentação de clientes baseada em comportamento de compra (RFV), com aplicação de KMeans para identificação de perfis de valor, retenção e recorrência, suportando decisões analíticas e estratégias de negócio.
 
 **Principais entregas:**
 - Pré-processamento completo e normalização com *MinMaxScaler*;
@@ -24,7 +23,7 @@ Segmentação de clientes baseada em comportamento de compra (RFV), com aplicaç
 - Visualização de perfis e exportação para Excel;
 - Segmentação por produtos: Vale e Digital.
 
-**Stack:** `Python (pandas, scikit-learn, numpy` · `Análise Estatística` ·  `Visualização Analítica`
+**Stack:** Python (pandas, NumPy, scikit-learn) · Estatística Aplicada · Visualização Analítica
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Clusterizacao_Produtos_Digitais)
 
@@ -69,7 +68,7 @@ Regressão para prever o custo de seguros com base em dados demográficos e de s
 **Principais entregas:**
 - Modelos: Regressão Linear e Árvore de Decisão;
 - Validação cruzada (10 folds), RMSE e R²;
-- Aplicação com dados simulados pelo usuário.
+- Simulação de cenários e análise de sensibilidade para avaliação de comportamento do modelo.
 
 **Stack:** `Python (pandas, NumPy, scikit-learn)` · `Análise Estatística` ·  `Visualização Analítica`
 

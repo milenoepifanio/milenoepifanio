@@ -1,7 +1,7 @@
 ### Olá, eu sou o Mileno Epifânio 👋
 
 - 🔍 Atuação em Analytics e Análise de Dados, com foco em segmentação de clientes, métricas de negócio, modelagem analítica e suporte à tomada de decisão.
-- 🛠️ Stack principal: Python, SQL, BigQuery, Databricks, Airflow, Power BI.
+- 🛠️ Stack principal: Python & SQL (Analytics), BigQuery & Databricks (Data Platforms), Airflow (Orquestração)
 - 📊 Experiência com análises exploratórias, estatística aplicada, clusterização e modelos preditivos.
 
 
@@ -30,15 +30,15 @@ Segmentação de clientes baseada em comportamento de compra (RFV), com aplicaç
 
 ---
 
-### 💸 *Análise de Transações com PIX – SQL, Python e Power BI*
+### 💸 *Análise de Transações com PIX – SQL & Python (Analytics End-to-End)*
 
-Projeto completo com modelagem de banco relacional, ETL em Python, análises com SQL e construção de painéis no Power BI. Foco em adoção, falhas, volume e padrões de uso do PIX.
+Projeto de analytics aplicado envolvendo modelagem de dados, ETL em Python e análises em SQL para investigar padrões de adoção, falhas operacionais e comportamento de uso do PIX.
 
 **Principais entregas:**
-- Modelagem SQL com UUID e BigInt;
-- Criação de indicadores por categoria: volume, E2E, operacional;
-- Análises de comportamento em Python;
-- Painel interativo em Power BI.
+- Modelagem de banco relacional (UUID, BigInt) com foco em análises transacionais;
+- Construção de métricas analíticas por categoria (volume, E2E, eficiência operacional);
+- Análises exploratórias e de comportamento em Python;
+- Consolidação de resultados em artefatos analíticos para apoio à tomada de decisão.
 
 **Stack:** `SQL (PostgreSQL)` · `Python (pandas)` · `Power BI`
 

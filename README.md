@@ -1,7 +1,7 @@
 ### Olá, eu sou o Mileno Epifânio 👋
 
-- 🔍 Atuação em Analytics aplicado ao negócio, com foco em segmentação de clientes, métricas estratégicas, modelagem analítica e suporte à tomada de decisão orientada por dados.
-   🛠️ Stack principal: Python & SQL (Analytics) · BigQuery & Databricks (Data Platforms) · Airflow (Orquestração)
+- 🔍 Atuo com Analytics orientado a decisão, transformando dados brutos em métricas, segmentações e produtos analíticos usados por times de negócio (CRM, marketing, operações).
+- 🛠️ Stack principal: Python & SQL (Analytics) · BigQuery & Databricks (Data Platforms) · Airflow (Orquestração)
 - 📊 Experiência com análises exploratórias, estatística aplicada, clusterização e modelos preditivos.
 
 
@@ -18,10 +18,11 @@
 Segmentação de clientes baseada em comportamento de compra (RFV), com aplicação de KMeans para identificação de perfis de valor, retenção e recorrência, suportando decisões analíticas e estratégias de negócio.
 
 **Principais entregas:**
-- Pré-processamento completo e normalização com *MinMaxScaler*;
-- Otimização de clusters via *Silhouette Score*;
-- Visualização de perfis e exportação para Excel;
-- Segmentação por produtos: Vale e Digital.
+- Segmentação comportamental criada para priorização de clientes de maior valor, substituindo análises genéricas baseadas apenas em faturamento.
+- Estrutura replicável para campanhas de retenção e recorrência, reduzindo decisões baseadas em “achismo”.
+- Modelo preparado para uso operacional (exportação, atualização periódica).
+
+📌 Impacto: Segmentação usada como base para decisões de retenção e priorização de clientes.
 
 **Stack:** Python (pandas, NumPy, scikit-learn) · Estatística Aplicada · Visualização Analítica
 
@@ -34,12 +35,14 @@ Segmentação de clientes baseada em comportamento de compra (RFV), com aplicaç
 Projeto de analytics aplicado envolvendo modelagem de dados, ETL em Python e análises em SQL para investigar padrões de adoção, falhas operacionais e comportamento de uso do PIX.
 
 **Principais entregas:**
-- Modelagem de banco relacional (UUID, BigInt) com foco em análises transacionais;
-- Construção de métricas analíticas por categoria (volume, E2E, eficiência operacional);
-- Análises exploratórias e de comportamento em Python;
-- Consolidação de resultados em artefatos analíticos para apoio à tomada de decisão.
+- Estrutura analítica criada para identificação de gargalos operacionais e falhas E2E em transações financeiras.
+- Métricas usadas para diagnóstico de eficiência operacional, não apenas volume.
+- Projeto simula um cenário real de analytics transacional, próximo de fintech/banco
 
 **Stack:** `SQL (PostgreSQL)` · `Python (pandas)`
+
+📌 Impacto: Base analítica estruturada para apoiar decisões de melhoria de eficiência operacional e redução de falhas em transações financeiras.
+
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/analise_projeto_pix).
 
@@ -51,44 +54,12 @@ Projeto de analytics aplicado envolvendo modelagem de dados, ETL em Python e an�
 Análise Estatística Aplicada em Dados de E-commerce com foco no dataset público da Olist. Análises descritivas, distribuições, correlações e storytelling com foco nas formas de pagamento.
 
 **Principais entregas:**
-- Exploração de variáveis numéricas e categóricas;
-- Análises visuais em múltiplos notebooks;
-- Contexto real do e-commerce brasileiro.
+- Exploração estatística para entendimento de comportamento de compra e meios de pagamento, com foco em hipóteses de negócio.
+- Projeto de base para análises exploratórias rápidas, não produto final.
 
 **Stack:** `Python` · `pandas` · `matplotlib` · `seaborn`
 
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/estatistica-um-projeto).
-
----
-
-### 🏥 *Predição de Gastos com Planos de Saúde*
-
-Regressão para prever o custo de seguros com base em dados demográficos e de saúde. Simulação de cenários com dados controlados para avaliação de comportamento do modelo.
-
-**Principais entregas:**
-- Modelos: Regressão Linear e Árvore de Decisão;
-- Validação cruzada (10 folds), RMSE e R²;
-- Simulação de cenários e análise de sensibilidade para avaliação de comportamento do modelo.
-
-**Stack:** `Python (pandas, NumPy, scikit-learn)` · `Análise Estatística` ·  `Visualização Analítica`
-
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/RegressaoLogistica_SeguroSaude).
-
----
-
-### ❤️ *Predição de Risco de Doenças Cardiovasculares*
-
-Projeto de classificação para estimar o risco de doenças cardíacas com dados reais do BRFSS. Combinação de modelos supervisionados (XGBoost, LGBM, AdaBoost) e clustering com KMeans.
-
-**Principais entregas:**
-- Análise exploratória e pré-processamento detalhado;
-- Ajuste de pesos para dados desbalanceados;
-- Métrica principal: *Recall* para maximizar detecção de risco;
-- Clusterização para identificação de perfis de risco.
-
-**Stack:** `Python (pandas, scikit-learn, xgboost, lightgbm)`
-
-📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Hearth_disease_risk).
 
 ---
 

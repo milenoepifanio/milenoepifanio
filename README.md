@@ -29,6 +29,23 @@ Segmentação de clientes baseada em comportamento de compra (RFV), com aplicaç
 📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/Clusterizacao_Produtos_Digitais)
 
 ---
+### 🔄 *Pipeline de Ingestão Bling → Supabase (ERP + E-Commerce Analytics)*
+
+Pipeline de ingestão incremental de pedidos históricos do Bling (ERP) para Supabase, unificando dados com WooCommerce para criar base analítica consolidada de vendas e operações.
+
+**Principais entregas:**
+
+- Arquitetura em camadas (Raw → Staging → Integration → Marts) para unificação ERP + e-commerce, habilitando análises cross-platform: lead time, taxa de cancelamento por canal e reconciliação de divergências.
+- Processamento incremental controlado com retry automático, idempotência via upsert e matching robusto para unificar dados com IDs e status diferentes entre plataformas.
+- Sistema de confiabilidade: rate limiting, tratamento de tipos/nulos, constraints SQL e controle de datas pendentes.
+
+📌 **Impacto:** Base única substituindo dados isolados, permitindo análises consolidadas de receita, eficiência operacional e reconciliação automatizada entre sistemas.
+
+**Stack:** `Python (Supabase client, pandas)` · `PostgreSQL/Supabase` · `Bling API v3`
+
+📁 [Ver Repositório no GitHub](https://github.com/milenoepifanio/bling-to-supabase-analytics-pipeline)
+
+---
 
 ### 💸 *Análise de Transações com PIX – SQL & Python (Analytics End-to-End)*
 

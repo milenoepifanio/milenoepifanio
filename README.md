@@ -2,11 +2,19 @@
 
 ## Data Engineer | Analytics Engineer
 
-I design and build data pipelines, analytical data models, and scalable data solutions that transform raw data into reliable business insights.
+![Python](https://img.shields.io/badge/Python-Professional-blue)
+![SQL](https://img.shields.io/badge/SQL-Professional-lightgrey)
+![Data Engineering](https://img.shields.io/badge/Data_Engineering-End_to_End-green)
+![PySpark](https://img.shields.io/badge/PySpark-Distributed_Processing-orange)
+![Airflow](https://img.shields.io/badge/Airflow-Orchestration-017CEE)
+![Docker](https://img.shields.io/badge/Docker-Containers-2496ED)
+![Cloud](https://img.shields.io/badge/Cloud-Data_Platforms-4285F4)
 
-My experience spans SQL, Python, Databricks, BigQuery, Airflow, and modern data architectures, delivering analytical datasets, automated workflows, and data products used across CRM, Operations, Marketing, and BI teams.
+I design and build data pipelines, analytical data models, and data platforms that transform raw data into reliable and actionable business insights.
 
-Currently expanding my expertise in modern Data Engineering, focusing on distributed processing, Analytics Engineering, DataOps, and cloud-based data platforms.
+My experience spans SQL, Python, Databricks, BigQuery, PySpark, and modern data architectures, delivering analytical datasets, automated workflows, and data products used across CRM, Operations, Marketing, and BI teams.
+
+Focused on Data Engineering, Analytics Engineering, and DataOps practices, with particular interest in distributed processing, cloud-native architectures, data modeling, and scalable analytical systems.
 
 ---
 
@@ -15,7 +23,6 @@ Currently expanding my expertise in modern Data Engineering, focusing on distrib
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milenoepifanio/)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=milenoepifanio" alt="MilenoEpifanio's Profile Views" />
-
 
 ---
 
@@ -32,18 +39,18 @@ Currently expanding my expertise in modern Data Engineering, focusing on distrib
 
 # Experience Snapshot
 
-- Data Engineer / Analytics Engineer @ Nexly
-- Data Analyst @ Grupo CVLB
-- Data Analyst @ Bee Delivery
-- Data Analytics Intern @ iFood
+- Data Engineer / Analytics Engineer — Nexly
+- Data Analyst — Grupo CVLB
+- Data Analyst — Bee Delivery
+- Data Analytics Intern — iFood
 
 ---
 
 # 🚀 Featured Projects
 
-## 🏗️ Data Engineering Growth — Anatel Analytics Pipeline
+## 🏗️ Data Engineering — ANATEL Analytics Pipeline
 
-End-to-end analytical pipeline built using public Anatel datasets, applying modern Data Engineering, Analytics Engineering, and DataOps concepts.
+End-to-end analytical pipeline built using public ANATEL datasets, applying modern Data Engineering, Analytics Engineering, and DataOps concepts.
 
 ### Highlights
 
@@ -56,11 +63,7 @@ End-to-end analytical pipeline built using public Anatel datasets, applying mode
 - Parquet-based storage
 - Modular and scalable architecture
 
-### Stack
-
-`Python` · `PySpark` · `dbt` · `DuckDB` · `Parquet` · `Selenium`
-
-📁 Repository: [Data Engineering Growth](https://github.com/milenoepifanio/anatel-data-performance-pipeline)
+📁 Repository: [Data Engineering](https://github.com/milenoepifanio/anatel-data-performance-pipeline)
 
 ---
 
@@ -77,11 +80,7 @@ End-to-end data engineering pipeline for extracting, transforming, aggregating, 
 - Dockerized infrastructure
 - Business-ready analytical datasets
 
-### Stack
-
-`Python` · `Airflow` · `Docker` · `PostgreSQL` · `LocalStack`
-
-📁 Repository: [Urban Mobility Pipeline](https://github.com/milenoepifanio/anatel-data-performance-pipeline)
+📁 Repository: [Urban Mobility Data Pipeline](https://github.com/milenoepifanio/mobilidade-urbana-pipeline)
 
 ---
 
@@ -98,11 +97,7 @@ Incremental ingestion pipeline that consolidates ERP and e-commerce data into a 
 - Analytical modeling for BI consumption
 - ERP + E-commerce reconciliation
 
-### Stack
-
-`Python` · `PostgreSQL` · `Supabase` · `SQL` · `REST APIs`
-
-📁 Repository: [Bling Orders Import](https://github.com/milenoepifanio/anatel-data-performance-pipeline)
+📁 Repository: [Bling Orders Import → Supabase](https://github.com/milenoepifanio/bling-to-supabase-analytics-pipeline)
 
 ---
 
@@ -110,7 +105,13 @@ Incremental ingestion pipeline that consolidates ERP and e-commerce data into a 
 
 <div align="center">
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=milenoepifanio&theme=radical&mode=weekly"/>
+<a href="https://github.com/milenoepifanio">
+  <img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=milenoepifanio&theme=tokyo-night" />
+</a>
+
+<br><br>
+
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=milenoepifanio&theme=tokyo-night&mode=weekly"/>
 
 </div>
 
@@ -134,13 +135,15 @@ Incremental ingestion pipeline that consolidates ERP and e-commerce data into a 
 
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 ---
 
-## Data Platforms
+## Cloud & Data Platforms
 
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -151,6 +154,8 @@ Incremental ingestion pipeline that consolidates ERP and e-commerce data into a 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-bigquery&logoColor=white)
+
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge)
 
 ---
 
@@ -164,17 +169,6 @@ Incremental ingestion pipeline that consolidates ERP and e-commerce data into a 
 - DataOps
 - Cloud Data Platforms
 - Distributed Data Processing
-
----
-
-# Current Focus
-
-- PySpark & Distributed Computing
-- dbt & Analytics Engineering
-- Data Lakehouse Architectures
-- Data Quality & Observability
-- AWS Data Engineering
-- DataOps Practices
 
 ---
 

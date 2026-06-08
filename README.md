@@ -111,7 +111,7 @@ Incremental ingestion pipeline that consolidates ERP and e-commerce data into a 
 
 <br><br>
 
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=milenoepifanio&theme=tokyo-night&mode=weekly"/>
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=milenoepifanio&theme=radical&mode=weekly"/>
 
 </div>
 
